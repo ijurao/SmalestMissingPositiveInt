@@ -1,0 +1,3 @@
+This exxample show how to find the smallest positive Integer in unsorted array. This approach is order O(nlogn) 
+wich is time to sort the array using Array.sort method privided by .Net, adding complexity we could achieve O(n) wich is faster than
+O(nlogn) 
