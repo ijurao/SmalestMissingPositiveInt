@@ -1,0 +1,13 @@
+C:\Users\ijura\source\repos\SmallestPositiveMissingNumber\SmallestPositiveMissingNumber\bin\Debug\netcoreapp3.1\SmallestPositiveMissingNumber.exe
+C:\Users\ijura\source\repos\SmallestPositiveMissingNumber\SmallestPositiveMissingNumber\bin\Debug\netcoreapp3.1\SmallestPositiveMissingNumber.deps.json
+C:\Users\ijura\source\repos\SmallestPositiveMissingNumber\SmallestPositiveMissingNumber\bin\Debug\netcoreapp3.1\SmallestPositiveMissingNumber.runtimeconfig.json
+C:\Users\ijura\source\repos\SmallestPositiveMissingNumber\SmallestPositiveMissingNumber\bin\Debug\netcoreapp3.1\SmallestPositiveMissingNumber.runtimeconfig.dev.json
+C:\Users\ijura\source\repos\SmallestPositiveMissingNumber\SmallestPositiveMissingNumber\bin\Debug\netcoreapp3.1\SmallestPositiveMissingNumber.dll
+C:\Users\ijura\source\repos\SmallestPositiveMissingNumber\SmallestPositiveMissingNumber\bin\Debug\netcoreapp3.1\SmallestPositiveMissingNumber.pdb
+C:\Users\ijura\source\repos\SmallestPositiveMissingNumber\SmallestPositiveMissingNumber\obj\Debug\netcoreapp3.1\SmallestPositiveMissingNumber.csprojAssemblyReference.cache
+C:\Users\ijura\source\repos\SmallestPositiveMissingNumber\SmallestPositiveMissingNumber\obj\Debug\netcoreapp3.1\SmallestPositiveMissingNumber.csproj.CoreCompileInputs.cache
+C:\Users\ijura\source\repos\SmallestPositiveMissingNumber\SmallestPositiveMissingNumber\obj\Debug\netcoreapp3.1\SmallestPositiveMissingNumber.AssemblyInfoInputs.cache
+C:\Users\ijura\source\repos\SmallestPositiveMissingNumber\SmallestPositiveMissingNumber\obj\Debug\netcoreapp3.1\SmallestPositiveMissingNumber.AssemblyInfo.cs
+C:\Users\ijura\source\repos\SmallestPositiveMissingNumber\SmallestPositiveMissingNumber\obj\Debug\netcoreapp3.1\SmallestPositiveMissingNumber.dll
+C:\Users\ijura\source\repos\SmallestPositiveMissingNumber\SmallestPositiveMissingNumber\obj\Debug\netcoreapp3.1\SmallestPositiveMissingNumber.pdb
+C:\Users\ijura\source\repos\SmallestPositiveMissingNumber\SmallestPositiveMissingNumber\obj\Debug\netcoreapp3.1\SmallestPositiveMissingNumber.genruntimeconfig.cache
